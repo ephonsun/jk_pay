@@ -3,7 +3,7 @@ package com.jk;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+@SpringBootApplication//ceshi
 public class TestdemoApplication {
 
     public static void main(String[] args) {
